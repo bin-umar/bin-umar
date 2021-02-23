@@ -31,20 +31,8 @@ I am a frontend developer, currently working at [Mail.ru Group](https://corp.mai
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
-**🐱 My Test Data**
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-752556%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 10 Contributions in the Year 2021
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -73,33 +61,10 @@ Sunday       33 commits     ███░░░░░░░░░░░░░░�
 ```text
 ⌚︎ Time Zone: Europe/Moscow
 
-💬 Programming Languages: 
-TypeScript               17 hrs 12 mins      ███████████████████░░░░░░   79.09% 
-SCSS                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
-JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-HTML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43%
-
 🔥 Editors: 
 WebStorm                 21 hrs 46 mins      █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Go                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/bin-umar/bin-umar/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
