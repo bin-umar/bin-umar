@@ -6,13 +6,13 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/bin_umar)
 
 ## Glad to see you here! &nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=bin-umar.bin-umar)
-
+<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=6119347&layout=compact" style="border-radius: 5px" />
 I am a frontend developer, currently working at [Mail.ru Group](https://corp.mail.ru/).
 
 ### 📊 **This week I spent my time on:**
 
 [![Jahongir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binUmar&layout=compact)](https://github.com/bin-umar)
-<img alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" height="265" style="border-radius: 5px" />
+<img alt="GIF" src="https://i.imgur.com/2JZkmtH.gif" height="265" style="border-radius: 5px" />
 
 ### 📈 **My GitHub Stats:**
 
