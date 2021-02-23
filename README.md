@@ -9,11 +9,10 @@
 
 I am a frontend developer, currently working at [Mail.ru Group](https://corp.mail.ru/).
 
-<img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" height="305" style="margin-right: 10px; border-radius: 5px" />
-
-📊 **This week I spent my time on:**
+### 📊 **This week I spent my time on:**
 
 [![Jahongir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binUmar&layout=compact)](https://github.com/bin-umar)
+<img alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" height="265" style="border-radius: 5px" />
 
 ### 📈 **My GitHub Stats:**
 
