@@ -7,6 +7,7 @@
 
 ## Glad to see you here! &nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=bin-umar.bin-umar)
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=6119347&layout=compact" style="border-radius: 5px" />
+
 I am a frontend developer, currently working at [Mail.ru Group](https://corp.mail.ru/).
 
 ### 📊 **This week I spent my time on:**
