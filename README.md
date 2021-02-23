@@ -28,6 +28,29 @@ I am a frontend developer, currently working at [Mail.ru Group](https://corp.mai
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin-umar&exclude_repo=Pharmacy&langs_count=8&layout=compact"/>
 </p>
 
+<!--START_SECTION:waka-->
+**I'm an early 🐤**
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+```
+
+📅 **I'm Most Productive on Sundays**
+
+```text
+Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
+Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
+Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
+Sunday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   22.69%
+```
+
+<!--END_SECTION:waka-->
+
 <!--
 **bin-umar/bin-umar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
