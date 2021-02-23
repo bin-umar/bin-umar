@@ -10,6 +10,10 @@
 
 I am a frontend developer, currently working at [Mail.ru Group](https://corp.mail.ru/).
 
+[![Visits Badge](https://badges.pufler.dev/years/bin-umar)](https://badges.pufler.dev/years/bin-umar)
+[![Visits Badge](https://badges.pufler.dev/repos/bin-umar)](https://badges.pufler.dev/repos/bin-umar)
+
+
 ### 📊 **This week I spent my time on:**
 
 [![Jahongir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binUmar&layout=compact)](https://github.com/bin-umar)
