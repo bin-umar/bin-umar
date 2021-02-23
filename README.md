@@ -1,11 +1,11 @@
-## Hi there, I'm Jahongir Tulforov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Jahongir Tulforov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jahongir-tulforov-90a81319b/)
 [![Twitter Badge](https://img.shields.io/badge/-Facebook-097bea?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/binForuq)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/bin_foruq/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/bin_umar)
 
-### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bin-umar.bin-umar)
+## Glad to see you here! &nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=bin-umar.bin-umar)
 
 I am a frontend developer, currently working at [Mail.ru Group](https://corp.mail.ru/).
 
