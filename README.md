@@ -29,8 +29,6 @@ I am a frontend developer, currently working at [Mail.ru Group](https://corp.mai
 </p>
 
 <!--START_SECTION:waka-->
-Test text
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-752556%20lines%20of%20code-blue)
@@ -61,11 +59,6 @@ Sunday       33 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Moscow
-
-🔥 Editors: 
-WebStorm                 21 hrs 46 mins      █████████████████████████   100.0%
-
 ```
 
 
