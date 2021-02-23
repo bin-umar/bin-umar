@@ -6,7 +6,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/bin_umar)
 
 ## Glad to see you here! &nbsp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=bin-umar.bin-umar)
-<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=6119347&layout=compact" style="border-radius: 5px" />
+<a href="https://stackoverflow.com/users/6119347/jahongir">
+    <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=6119347&layout=compact" style="border-radius: 5px" />
+</a>
 
 I am a frontend developer, currently working at [Mail.ru Group](https://corp.mail.ru/).
 
