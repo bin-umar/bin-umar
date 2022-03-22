@@ -29,40 +29,12 @@ I am a frontend developer, currently working at [Mail.ru Group](https://corp.mai
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-699%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
-🌆 Daytime    112 commits    ██████████░░░░░░░░░░░░░░░   40.73% 
-🌃 Evening    75 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-🌙 Night      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.27%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       73 commits     ██████░░░░░░░░░░░░░░░░░░░   26.55% 
-Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
-Wednesday    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
-Friday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.91% 
-Saturday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Sunday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.27%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-
- Last Updated on 21/03/2022 18:49:01 UTC
+ Last Updated on 22/03/2022 18:48:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
