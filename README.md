@@ -10,10 +10,7 @@
     <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=6119347&layout=compact" style="border-radius: 5px" />
 </a>
 
-I am a frontend developer, currently working at [p2p.org](https://p2p.org/).
-
-[![Visits Badge](https://badges.pufler.dev/years/bin-umar)](https://badges.pufler.dev/years/bin-umar)
-[![Visits Badge](https://badges.pufler.dev/repos/bin-umar)](https://badges.pufler.dev/repos/bin-umar)
+I am a frontend developer from mountains of Tajikistan.
 
 
 ### 📊 **This week I spent my time on:**
