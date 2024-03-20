@@ -10,13 +10,8 @@
     <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=6119347&layout=compact" style="border-radius: 5px" />
 </a>
 
-I am a frontend developer from mountains of Tajikistan.
+Software Engineer from mountains ⛰ of [Tajikistan](https://maps.app.goo.gl/WFmCuBp6LHTPir586).
 
-
-### 📊 **This week I spent my time on:**
-
-[![Jahongir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binUmar&layout=compact)](https://github.com/bin-umar)
-<img alt="GIF" src="https://i.imgur.com/2JZkmtH.gif" height="265" style="border-radius: 5px" />
 
 ### 📈 **My GitHub Stats:**
 
@@ -24,15 +19,6 @@ I am a frontend developer from mountains of Tajikistan.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bin-umar&count_private=true&show_icons=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin-umar&exclude_repo=Pharmacy&langs_count=8&layout=compact"/>
 </p>
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-699%20Thousand%20lines%20of%20code-blue)
-
-
- Last Updated on 23/03/2022 18:49:28 UTC
-<!--END_SECTION:waka-->
 
 <!--
 **bin-umar/bin-umar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
