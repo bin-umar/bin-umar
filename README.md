@@ -1,5 +1,3 @@
-# Jahongir Tulforov
-
 **Senior Software Engineer · Backend Systems · Fintech · Web3**
 
 Senior Software Engineer II at Tools for Humanity in Munich, Germany. I build
